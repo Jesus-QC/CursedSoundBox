@@ -1,5 +1,5 @@
 # CursedSoundBox
-CursedMod module that introduces an audioplayer.
+CursedMod module that introduces an audioplayer for MP3 files (MPEG).
 
 This project is still in progress and missing some commands like changing channel or adding to the queue songs.
 The API is fully functional.
